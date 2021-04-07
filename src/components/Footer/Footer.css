@@ -1,0 +1,9 @@
+footer{
+    background-color: blueviolet;
+    height: 5vh;
+    float: bottom;
+    margin-top: 50vh;
+}
+footer p{
+    text-align: center;
+}

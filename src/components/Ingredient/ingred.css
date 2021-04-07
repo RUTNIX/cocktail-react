@@ -1,0 +1,16 @@
+.card_ingred{
+    width: 50%;
+    margin: 2% 0 0 25%;
+    background-color: rgb(35, 4, 41);
+    border-radius: 50px;
+    color: white;
+    padding: 2%;
+}
+
+.card_ingred h2{
+    text-align: center;
+    color: silver;
+}
+
+.card_ingred p{
+}
